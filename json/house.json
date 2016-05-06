@@ -1,0 +1,77 @@
+{
+  "title": {
+      "text": {
+        "headline": "Houses",
+        "text": "<p>These are all the photos in the collection that depict houses or the lands of home- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan32.jpeg",
+                  "thumbnail": "images/Scan32.jpeg"
+              },
+              "start_date": {
+                  "year": "1928"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Snow while we lived in the Keystone House- Snow in April </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Winter </p> <p class=\"timelinetext\">"
+              },
+              "unique_id": "1928"
+          },
+          {
+              "media": {
+                  "url": "images/Scan5.jpeg",
+                  "thumbnail": "images/Scan5.jpeg"
+              },
+              "start_date": {
+                  "year": "1931"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> The church where Reginald and Marion were baptized </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House </p>"
+              },
+              "unique_id": "1931"
+          },
+          {
+              "media": {
+                  "url": "images/Scan49.jpeg",
+                  "thumbnail": "images/Scan49.jpeg"
+              },
+              "start_date": {
+                  "year": "1939"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad Beaumont’s home on Filkins St, Fairport NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Cars </p>"
+              },
+              "unique_id": "1939"
+          },
+          {
+              "media": {
+                  "url": "images/Scan42.jpeg",
+                  "thumbnail": "images/Scan42.jpeg"
+              },
+              "start_date": {
+                  "year": "1947"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Our Louisville Home in July </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House </p>"
+              },
+              "unique_id": "1947"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan5.jpeg",
+                  "thumbnail": "images/Colpitts-Scan5.jpeg"
+              },
+              "start_date": {
+                  "year": "1968"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Ann’s Backyard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Yard </p>"
+              },
+              "unique_id": "1968"
+          }
+
+        ]
+}

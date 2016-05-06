@@ -1,0 +1,76 @@
+{
+  "title": {
+      "text": {
+        "headline": "Birthdays",
+        "text": "<p>These are all the photos in the collection that depict birthdays- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan1.jpeg",
+                  "thumbnail": "images/Colpitts-Scan1.jpeg"
+              },
+              "start_date": {
+                  "year": "1961"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan on front porch on her birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Kids, Birthday </p>"
+              },
+              "unique_id": "1961"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan87.jpeg",
+                  "thumbnail": "images/Colpitts-Scan87.jpeg"
+              },
+              "start_date": {
+                  "year": "1966"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan’s 9th birthday- hitting a piñata in her house </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday, Kid </p>"
+              },
+              "unique_id": "1966"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan33.jpeg",
+                  "thumbnail": "images/Colpitts-Scan33.jpeg"
+              },
+              "start_date": {
+                  "year": "1989"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily’s first birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday </p>"
+              },
+              "unique_id": "1989"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan73.jpeg",
+                  "thumbnail": "images/Colpitts-Scan73.jpeg"
+              },
+              "start_date": {
+                  "year": "2001"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Norman, Julia- 2001 on Julia’s 7th Birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday, Kids </p>"
+              },
+              "unique_id": "2001"
+          },
+          {
+              "media": {
+                  "url": "images/Digital16.jpeg",
+                  "thumbnail": "images/Digital16.jpeg"
+              },
+              "start_date": {
+                  "year": "2009"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Happy Birthday to my first little girl! Josie at three is talkative, cautious, creative, sweet, loving, and so special! We love you Josie! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Birthday, Outside </p>"
+              },
+              "unique_id": "2009"
+          }
+        ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": {
+      "text": {
+        "headline": "Military/Scouts",
+        "text": "<p>These are all the photos in the collection that depict the military or scouts- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan15.jpeg",
+                  "thumbnail": "images/Scan15.jpeg"
+              },
+              "start_date": {
+                  "year": "1919"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Brother Bill, returning from The World War, made us a visit. Reginald is so proud to have “a real soldier” in the house </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts </p>"
+              },
+              "unique_id": "1919"
+          },
+          {
+              "media": {
+                  "url": "images/Scan35.jpeg",
+                  "thumbnail": "images/Scan35.jpeg"
+              },
+              "start_date": {
+                  "year": "1932"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy, when he was scout master, took his scout to L. Bonopart. Elmer Burke, Hugh Jordan, Reginald and Daddy </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts </p>"
+              },
+              "unique_id": "1932"
+          },
+          {
+              "media": {
+                  "url": "images/Scan48.jpeg",
+                  "thumbnail": "images/Scan48.jpeg"
+              },
+              "start_date": {
+                  "year": "1942"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mr and Mrs Theron Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Military/Scouts, Adults, Outside, Winter </p> "
+              },
+              "unique_id": "1942"
+          },
+          {
+              "media": {
+                  "url": "images/Scan36.jpeg",
+                  "thumbnail": "images/Scan36.jpeg"
+              },
+              "start_date": {
+                  "year": "1945"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald, taken at Great Lakes </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts, Adults </p> "
+              },
+              "unique_id": "1945"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan55.jpeg",
+                  "thumbnail": "images/Colpitts-Scan55.jpeg"
+              },
+              "start_date": {
+                  "year": "1996"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily getting her badge in the Girlscouts </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Military/Scouts, Kids </p> "
+              },
+              "unique_id": "1996"
+          }
+
+        ]
+}

@@ -1,0 +1,142 @@
+{
+  "title": {
+      "text": {
+        "headline": "Winter",
+        "text": "<p>These are all the photos in the collection that depict scenes from winter- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan32.jpeg",
+                  "thumbnail": "images/Scan32.jpeg"
+              },
+              "start_date": {
+                  "year": "1928"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Snow while we lived in the Keystone House- Snow in April </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Winter </p> "
+              },
+              "unique_id": "1928"
+          },
+          {
+              "media": {
+                  "url": "images/Scan34.jpeg",
+                  "thumbnail": "images/Scan34.jpeg"
+              },
+              "start_date": {
+                  "year": "1936"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Anna Youworski, Marion and “Patty” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids, Winter </p>"
+              },
+              "unique_id": "1936"
+          },
+          {
+              "media": {
+                  "url": "images/Scan48.jpeg",
+                  "thumbnail": "images/Scan48.jpeg"
+              },
+              "start_date": {
+                  "year": "1942"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mr and Mrs Theron Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Military/Scouts, Adults, Outside, Winter </p> "
+              },
+              "unique_id": "1942"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan10.jpeg",
+                  "thumbnail": "images/Colpitts-Scan10.jpeg"
+              },
+              "start_date": {
+                  "year": "1972"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Christmas ‘72 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holidays, Kids, Winter </p>"
+              },
+              "unique_id": "1972"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan9.jpeg",
+                  "thumbnail": "images/Colpitts-Scan9.jpeg"
+              },
+              "start_date": {
+                  "year": "1974"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p>"
+              },
+              "unique_id": "1974"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan18.jpeg",
+                  "thumbnail": "images/Colpitts-Scan18.jpeg"
+              },
+              "start_date": {
+                  "year": "1979"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p> "
+              },
+              "unique_id": "1979"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan69.jpeg",
+                  "thumbnail": "images/Colpitts-Scan69.jpeg"
+              },
+              "start_date": {
+                  "year": "2002"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Holiday, Winter, Kids </p> "
+              },
+              "unique_id": "2002"
+          },
+          {
+              "media": {
+                  "url": "images/Digital14.jpeg",
+                  "thumbnail": "images/Digital14.jpeg"
+              },
+              "start_date": {
+                  "year": "2007"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Cross country skiing with baby and dog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Winter </p>"
+              },
+              "unique_id": "2007-2"
+          },
+          {
+              "media": {
+                  "url": "images/Digital6.jpeg",
+                  "thumbnail": "images/Digital6.jpeg"
+              },
+              "start_date": {
+                  "year": "2011"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Opening the first gift! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holidays, Kids, Winter </p>"
+              },
+              "unique_id": "2011-2"
+          },
+          {
+              "media": {
+                  "url": "images/Digital12.jpeg",
+                  "thumbnail": "images/Digital12.jpeg"
+              },
+              "start_date": {
+                  "year": "2016"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Snow. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Winter, Playing </p>"
+              },
+              "unique_id": "2016-2"
+          }
+
+        ]
+}

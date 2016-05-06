@@ -1,0 +1,219 @@
+{
+  "title": {
+      "text": {
+        "headline": "Vacation",
+        "text": "<p>These are all the photos in the collection that depict vacations- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan23.jpeg",
+                  "thumbnail": "images/Scan23.jpeg"
+              },
+              "start_date": {
+                  "year": "1921"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> A 4th of July holiday at Lake Brantingham- She loves the water and loves when I take her out. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer </p>"
+              },
+              "unique_id": "1921"
+          },
+          {
+              "media": {
+                  "url": "images/Scan28.jpeg",
+                  "thumbnail": "images/Scan28.jpeg"
+              },
+              "start_date": {
+                  "year": "1925"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy and Brother Bill- Chase Lake </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults, Playing </p> "
+              },
+              "unique_id": "1925"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan80.jpeg",
+                  "thumbnail": "images/Colpitts-Scan80.jpeg"
+              },
+              "start_date": {
+                  "year": "1955"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Jack and Ann at the Washington Monument </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids </p> "
+              },
+              "unique_id": "1955"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan83.jpeg",
+                  "thumbnail": "images/Colpitts-Scan83.jpeg"
+              },
+              "start_date": {
+                  "year": "1959"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Jack and Susan sit on a cannon during a vacation to Valley Forge </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids </p> "
+              },
+              "unique_id": "1959"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan85.jpeg",
+                  "thumbnail": "images/Colpitts-Scan85.jpeg"
+              },
+              "start_date": {
+                  "year": "1962"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George at the beach during a vacation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults </p> "
+              },
+              "unique_id": "1962"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan4.jpeg",
+                  "thumbnail": "images/Colpitts-Scan4.jpeg"
+              },
+              "start_date": {
+                  "year": "1973"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> On Vacation- Karen 2 1/2 years </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer </p>"
+              },
+              "unique_id": "1973"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan29.jpeg",
+                  "thumbnail": "images/Colpitts-Scan29.jpeg"
+              },
+              "start_date": {
+                  "year": "1983"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Getting the car ready to head back to VA </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Adults, Cars </p>"
+              },
+              "unique_id": "1983"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan27.jpeg",
+                  "thumbnail": "images/Colpitts-Scan27.jpeg"
+              },
+              "start_date": {
+                  "year": "1984"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> In Albuquerque on our way to the fancy place for dinner- Tommy (15), Mom, Dorothy and Dan </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation </p> "
+              },
+              "unique_id": "1984"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan30.jpeg",
+                  "thumbnail": "images/Colpitts-Scan30.jpeg"
+              },
+              "start_date": {
+                  "year": "1988"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George and Mary Elizabeth holding Lily </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Newborns/Pregnancy </p> "
+              },
+              "unique_id": "1988"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan63.jpeg",
+                  "thumbnail": "images/Colpitts-Scan63.jpeg"
+              },
+              "start_date": {
+                  "year": "1999"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Summer 1999 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Kids </p>"
+              },
+              "unique_id": "1999"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan65.jpeg",
+                  "thumbnail": "images/Colpitts-Scan65.jpeg"
+              },
+              "start_date": {
+                  "year": "2000"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> White Top Mountain </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids </p>"
+              },
+              "unique_id": "2000"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan2004.jpeg",
+                  "thumbnail": "images/Colpitts-Scan2004.jpeg"
+              },
+              "start_date": {
+                  "year": "2004"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Annie, Lily and Julia on the beach </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Vacation </p>"
+              },
+              "unique_id": "2004"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan2005.jpeg",
+                  "thumbnail": "images/Colpitts-Scan2005.jpeg"
+              },
+              "start_date": {
+                  "year": "2005"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> The Colpitts Family </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Portrait </p> "
+              },
+              "unique_id": "2005"
+          },
+          {
+              "media": {
+                  "url": "images/Digital18.jpeg",
+                  "thumbnail": "images/Digital18.jpeg"
+              },
+              "start_date": {
+                  "year": "2011"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Outer Banks 2011-\nWe spent a lot of time on the beach this year. No one was sick and Maggie was old enough to enjoy the beach :)</p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Vacation, Outside </p>  "
+              },
+              "unique_id": "2011"
+          },
+          {
+              "media": {
+                  "url": "images/Digital11.jpeg",
+                  "thumbnail": "images/Digital11.jpeg"
+              },
+              "start_date": {
+                  "year": "2015"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Building a Barbie pool #doorcounty </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Kids </p>"
+              },
+              "unique_id": "2015"
+          },
+          {
+              "media": {
+                  "url": "images/Digital22.jpeg",
+                  "thumbnail": "images/Digital22.jpeg"
+              },
+              "start_date": {
+                  "year": "2015"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Best of friends and bitter enemies all within a matter of minutes #sisters </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Portrait, Vacation </p>"
+              },
+              "unique_id": "2015-2"
+          }
+        ]
+}

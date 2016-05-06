@@ -1,0 +1,1372 @@
+{
+        "title": {
+            "text": {
+              "headline": "The History of Family Photography",
+              "text": "<p>This project tells the story of family photography over the past century.</p><p>There are several ways to interact with the site:</p><div class=\"section group\"><div class=\"col span_1_of_4\"><p>Use the arrows to see the next and previous slides</p><img class=\"introimg\" src=\"../images/assets/intro1.jpg\"></p> </div><div class=\"col span_1_of_4\"><p>Hover over the timeline and scroll left and right</p><img src=\"../images/assets/intro2.png\" class=\"introimg\"></p></div><div class=\"col span_1_of_4\"><p>Click on the filter icon to view the photos by theme</p><img src=\"../images/assets/intro3.jpg\" class=\"introimg\"></p></div><div class=\"col span_1_of_4\"> <p>Click on the menu icon to learn more about the project</p><img src=\"../images/assets/intro4.jpg\" class=\"introimg\"></p></div></div>"
+            },
+            "unique_id": "begin"
+        },
+        "events": [
+            {
+                "media": {
+                    "url": "images/Scan0.jpeg",
+                    "thumbnail": "images/Scan0.jpeg"
+                },
+                "start_date": {
+                    "year": "1915"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Mrs Farr and Baby Elizabeth </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1960\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan50.jpeg\"></a> <a href=\"#event-1920\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan18.jpeg\" </a> "
+                },
+                "unique_id": "1915"
+            },
+            {
+                "media": {
+                    "url": "images/Scan3.jpeg",
+                    "thumbnail": "images/Scan3.jpeg"
+                },
+                "start_date": {
+                    "year": "1916"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Who else has a bath on the back porch? “Here comes that charming little puppy for an early morning call.” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1958\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan82.jpeg\"></a> <a href=\"#event-1992\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan44.jpeg\" </a> <a href=\"#event-1990\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan75.jpeg\" </a>"
+                },
+                "unique_id": "1916"
+            },
+            {
+                "media": {
+                    "url": "images/Scan10.jpeg",
+                    "thumbnail": "images/Scan10.jpeg"
+                },
+                "start_date": {
+                    "year": "1917"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Reginald and Holsli at Norwood- Dec 1917 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Winter, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2016-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital12.jpeg\"></a> <a href=\"#event-2007-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital14.jpeg\" </a> <a href=\"#event-1980\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan23.jpeg\" </a>"
+                },
+                "unique_id": "1917"
+            },
+            {
+                "media": {
+                    "url": "images/Scan9.jpeg",
+                    "thumbnail": "images/Scan9.jpeg"
+                },
+                "start_date": {
+                    "year": "1918"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> “Baby mows grass, Mommie” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Yard, Playing, Kids, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1963\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan84.jpeg\"></a>  "
+                },
+                "unique_id": "1918"
+            },
+            {
+                "media": {
+                    "url": "images/Scan14.jpeg",
+                    "thumbnail": "images/Scan14.jpeg"
+                },
+                "start_date": {
+                    "year": "1918"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Reginald ready to go for a “pinkie” (picnic) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1956\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan46.jpeg\"></a>  "
+                },
+                "unique_id": "1918-2"
+            },
+            {
+                "media": {
+                    "url": "images/Scan15.jpeg",
+                    "thumbnail": "images/Scan15.jpeg"
+                },
+                "start_date": {
+                    "year": "1919"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Brother Bill, returning from The World War, made us a visit. Reginald is so proud to have “a real soldier” in the house </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1945\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan36.jpeg\"></a> <a href=\"#event-1942\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan48.jpeg\" </a> "
+                },
+                "unique_id": "1919"
+            },
+            {
+                "media": {
+                    "url": "images/Scan16.jpeg",
+                    "thumbnail": "images/Scan16.jpeg"
+                },
+                "start_date": {
+                    "year": "1919"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Naomi Marrion and Reginald </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids, Cars </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1926\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan30.jpeg\"></a> <a href=\"#event-1994\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan53.jpeg\" </a> <a href=\"#event-2008-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital15.jpeg\" </a>"
+                },
+                "unique_id": "1919-2"
+            },
+            {
+                "media": {
+                    "url": "images/Scan18.jpeg",
+                    "thumbnail": "images/Scan18.jpeg"
+                },
+                "start_date": {
+                    "year": "1920"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> “I like the way my daddy holds me.” Marion Helen (delivered 1/26/20) is being held by her father. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Outside, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1960\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan50.jpeg\"></a> <a href=\"#event-1915\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan0.jpeg\" </a> "
+                },
+                "unique_id": "1920"
+            },
+            {
+                "media": {
+                    "url": "images/Scan6.jpeg",
+                    "thumbnail": "images/Scan6.jpeg"
+                },
+                "start_date": {
+                    "year": "1920"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> “He is reading like Daddy but his paper is upside down as usual” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Porch, Outside </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1930\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan31.jpeg\"></a>  "
+                },
+                "unique_id": "1920-2"
+            },
+            {
+                "media": {
+                    "url": "images/Scan23.jpeg",
+                    "thumbnail": "images/Scan23.jpeg"
+                },
+                "start_date": {
+                    "year": "1921"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> A 4th of July holiday at Lake Brantingham- She loves the water and loves when I take her out. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1999\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan63.jpeg\"></a> <a href=\"#event-2011\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital18.jpeg\" </a> "
+                },
+                "unique_id": "1921"
+            },
+            {
+                "media": {
+                    "url": "images/Scan26.jpeg",
+                    "thumbnail": "images/Scan26.jpeg"
+                },
+                "start_date": {
+                    "year": "1922"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Reginald’s 1st day at school </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1991-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan40.jpeg\"></a> <a href=\"#event-2013\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital8.jpeg\" </a> "
+                },
+                "unique_id": "1922"
+            },
+            {
+                "media": {
+                    "url": "images/Scan29.jpeg",
+                    "thumbnail": "images/Scan29.jpeg"
+                },
+                "start_date": {
+                    "year": "1923"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Marion and Ana Maxine </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1993\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan46.jpeg\"></a> <a href=\"#event-2008\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital3.jpeg\" </a> "
+                },
+                "unique_id": "1923"
+            },
+            {
+                "media": {
+                    "url": "images/Scan24.jpeg",
+                    "thumbnail": "images/Scan24.jpeg"
+                },
+                "start_date": {
+                    "year": "1924"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> A 1921 Summer Sunday at Brantingham Lake with Alice Brown and her friend- 4th of July Holiday at the lake. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Holiday, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1986\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan28.jpeg\"></a> <a href=\"#event-1925\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan28.jpeg\" </a> <a href=\"#event-2003\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan72.jpeg\" </a>"
+                },
+                "unique_id": "1924"
+            },
+            {
+                "media": {
+                    "url": "images/Scan28.jpeg",
+                    "thumbnail": "images/Scan28.jpeg"
+                },
+                "start_date": {
+                    "year": "1925"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Daddy and Brother Bill- Chase Lake </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults, Playing </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1986\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan28.jpeg\"></a> <a href=\"#event-1924\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan24.jpeg\" </a> <a href=\"#event-2003\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan72.jpeg\" </a>"
+                },
+                "unique_id": "1925"
+            },
+            {
+                "media": {
+                    "url": "images/Scan30.jpeg",
+                    "thumbnail": "images/Scan30.jpeg"
+                },
+                "start_date": {
+                    "year": "1926"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Reginald manufactures and automobile. Marion is a passenger </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Cars, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1919-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan16.jpeg\"></a> <a href=\"#event-1994\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan53.jpeg\" </a> <a href=\"#event-2008-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital15.jpeg\" </a>"
+                },
+                "unique_id": "1926"
+            },
+            {
+                "media": {
+                    "url": "images/Scan32.jpeg",
+                    "thumbnail": "images/Scan32.jpeg"
+                },
+                "start_date": {
+                    "year": "1928"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Snow while we lived in the Keystone House- Snow in April </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1931\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan5.jpeg\"></a> <a href=\"#event-1947\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan42.jpeg\" </a> <a href=\"#event-1939\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan49.jpeg\" </a>"
+                },
+                "unique_id": "1928"
+            },
+            {
+                "media": {
+                    "url": "images/Scan31.jpeg",
+                    "thumbnail": "images/Scan31.jpeg"
+                },
+                "start_date": {
+                    "year": "1930"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Father Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1920-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan6.jpeg\"></a>  "
+                },
+                "unique_id": "1930"
+            },
+            {
+                "media": {
+                    "url": "images/Scan5.jpeg",
+                    "thumbnail": "images/Scan5.jpeg"
+                },
+                "start_date": {
+                    "year": "1931"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> The church where Reginald and Marion were baptized </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1928\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan32.jpeg\"></a> <a href=\"#event-1947\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan42.jpeg\" </a> <a href=\"#event-1939\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan49.jpeg\" </a>"
+                },
+                "unique_id": "1931"
+            },
+            {
+                "media": {
+                    "url": "images/Scan35.jpeg",
+                    "thumbnail": "images/Scan35.jpeg"
+                },
+                "start_date": {
+                    "year": "1932"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Daddy, when he was scout master, took his scout to L. Bonopart. Elmer Burke, Hugh Jordan, Reginald and Daddy </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1996\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan55.jpeg\"></a>  "
+                },
+                "unique_id": "1932"
+            },
+            {
+                "media": {
+                    "url": "images/Scan37.jpeg",
+                    "thumbnail": "images/Scan37.jpeg"
+                },
+                "start_date": {
+                    "year": "1933"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> High School Graduation, Reginald, Glenfield NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1937\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan38.jpeg\"></a> <a href=\"#event-1975\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan7.jpeg\" </a> "
+                },
+                "unique_id": "1933"
+            },
+            {
+                "media": {
+                    "url": "images/Scan33.jpeg",
+                    "thumbnail": "images/Scan33.jpeg"
+                },
+                "start_date": {
+                    "year": "1934"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Marion and Harry Jordan in the costume they wore in our entertainment as Martha and George Washington </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Costumes, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1992\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan39.jpeg\"></a> <a href=\"#event-2010\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital17.jpeg\" </a> "
+                },
+                "unique_id": "1934"
+            },
+            {
+                "media": {
+                    "url": "images/Scan39.jpeg",
+                    "thumbnail": "images/Scan39.jpeg"
+                },
+                "start_date": {
+                    "year": "1935"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Reginald Beaumont Robinson- Glenfield NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1951\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan45.jpeg\"></a> <a href=\"#event-1962\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan85.jpeg\" </a> "
+                },
+                "unique_id": "1935"
+            },
+            {
+                "media": {
+                    "url": "images/Scan34.jpeg",
+                    "thumbnail": "images/Scan34.jpeg"
+                },
+                "start_date": {
+                    "year": "1936"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Anna Youworski, Marion and “Patty” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1949\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan44.jpeg\"></a> <a href=\"#event-1955\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan80.jpeg\" </a> <a href=\"#event-2014\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital10.jpeg\" </a>"
+                },
+                "unique_id": "1936"
+            },
+            {
+                "media": {
+                    "url": "images/Scan38.jpeg",
+                    "thumbnail": "images/Scan38.jpeg"
+                },
+                "start_date": {
+                    "year": "1937"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Marion’s Graduation - Marion Helen Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Portrait, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1975\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan7.jpeg\"></a> <a href=\"#event-1933\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan37.jpeg\" </a> "
+                },
+                "unique_id": "1937"
+            },
+            {
+                "media": {
+                    "url": "images/Scan49.jpeg",
+                    "thumbnail": "images/Scan49.jpeg"
+                },
+                "start_date": {
+                    "year": "1939"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Dad Beaumont’s home on Filkins St, Fairport NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Cars </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1928\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan32.jpeg\"></a> <a href=\"#event-1947\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan42.jpeg\" </a> <a href=\"#event-1931\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan5.jpeg\" </a>"
+                },
+                "unique_id": "1939"
+            },
+            {
+                "media": {
+                    "url": "images/Scan41.jpeg",
+                    "thumbnail": "images/Scan41.jpeg"
+                },
+                "start_date": {
+                    "year": "1941"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Grandpa Robinson and Granddaughter Marion Robinson, daughter of Arthur Robinson. Summer 1941 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars, Adults, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1977\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan13.jpeg\"></a> <a href=\"#event-1978\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan19.jpeg\" </a> "
+                },
+                "unique_id": "1941"
+            },
+            {
+                "media": {
+                    "url": "images/Scan48.jpeg",
+                    "thumbnail": "images/Scan48.jpeg"
+                },
+                "start_date": {
+                    "year": "1942"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Mr and Mrs Theron Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Military/Scouts, Adults, Outside, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1945\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan36.jpeg\"></a> <a href=\"#event-1919\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan15.jpeg\" </a> "
+                },
+                "unique_id": "1942"
+            },
+            {
+                "media": {
+                    "url": "images/Scan36.jpeg",
+                    "thumbnail": "images/Scan36.jpeg"
+                },
+                "start_date": {
+                    "year": "1945"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Reginald, taken at Great Lakes </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1919\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan15.jpeg\"></a> <a href=\"#event-1942\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan48.jpeg\" </a> "
+                },
+                "unique_id": "1945"
+            },
+            {
+                "media": {
+                    "url": "images/Scan42.jpeg",
+                    "thumbnail": "images/Scan42.jpeg"
+                },
+                "start_date": {
+                    "year": "1947"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Our Louisville Home in July </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1928\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan32.jpeg\"></a> <a href=\"#event-1931\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan5.jpeg\" </a> <a href=\"#event-1939\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan49.jpeg\" </a>"
+                },
+                "unique_id": "1947"
+            },
+            {
+                "media": {
+                    "url": "images/Scan43.jpeg",
+                    "thumbnail": "images/Scan43.jpeg"
+                },
+                "start_date": {
+                    "year": "1948"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> My family- Reginald, Vera holding David, Daddy with Ken in front, Marion with Nancy in front, and Bill </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1982\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan24.jpeg\"></a> <a href=\"#event-1984\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan27.jpeg\" </a> "
+                },
+                "unique_id": "1948"
+            },
+            {
+                "media": {
+                    "url": "images/Scan44.jpeg",
+                    "thumbnail": "images/Scan44.jpeg"
+                },
+                "start_date": {
+                    "year": "1949"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Kennie and Nancy. (Marion’s children outside their home). </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1936\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan34.jpeg\"></a> <a href=\"#event-1955\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan80.jpeg\" </a> <a href=\"#event-2014\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital10.jpeg\" </a>"
+                },
+                "unique_id": "1949"
+            },
+            {
+                "media": {
+                    "url": "images/Scan45.jpeg",
+                    "thumbnail": "images/Scan45.jpeg"
+                },
+                "start_date": {
+                    "year": "1951"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Daddy and his prize peas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1935\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan39.jpeg\"></a> <a href=\"#event-1962\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan85.jpeg\" </a> "
+                },
+                "unique_id": "1951"
+            },
+            {
+                "media": {
+                    "url": "images/Scan47.jpeg",
+                    "thumbnail": "images/Scan47.jpeg"
+                },
+                "start_date": {
+                    "year": "1953"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Deborah Jean Barrett </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2007\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital2.jpeg\"></a> <a href=\"#event-1995\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan78.jpeg\" </a> "
+                },
+                "unique_id": "1953"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan80.jpeg",
+                    "thumbnail": "images/Colpitts-Scan80.jpeg"
+                },
+                "start_date": {
+                    "year": "1955"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Jack and Ann at the Washington Monument </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1949\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan44.jpeg\"></a> <a href=\"#event-1936\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan34.jpeg\" </a> <a href=\"#event-2014\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital10.jpeg\" </a>"
+                },
+                "unique_id": "1955"
+            },
+            {
+                "media": {
+                    "url": "images/Scan46.jpeg",
+                    "thumbnail": "images/Scan46.jpeg"
+                },
+                "start_date": {
+                    "year": "1956"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> David Menard in our new Chrysler </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1918-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan14.jpeg\"></a>  "
+                },
+                "unique_id": "1956"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan81.jpeg",
+                    "thumbnail": "images/Colpitts-Scan81.jpeg"
+                },
+                "start_date": {
+                    "year": "1957"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Mary Elizabeth, Jack, Susan and Ann on the front porch of their home </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Newborns/Pregnancy </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1961\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan1.jpeg\"></a>  "
+                },
+                "unique_id": "1957"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan82.jpeg",
+                    "thumbnail": "images/Colpitts-Scan82.jpeg"
+                },
+                "start_date": {
+                    "year": "1958"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Ann and Jack playing in the hose in their front yard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids, Porch </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1916\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan3.jpeg\"></a> <a href=\"#event-1992\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan44.jpeg\" </a> <a href=\"#event-1990\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan75.jpeg\" </a>"
+                },
+                "unique_id": "1958"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan83.jpeg",
+                    "thumbnail": "images/Colpitts-Scan83.jpeg"
+                },
+                "start_date": {
+                    "year": "1959"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Jack and Susan sit on a cannon during a vacation to Valley Forge </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2015-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital22.jpeg\"></a> <a href=\"#event-1965\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan0.jpeg\" </a> "
+                },
+                "unique_id": "1959"
+            },
+            {
+                "media": {
+                    "url": "Images/Scan50.jpeg",
+                    "thumbnail": "images/Scan50.jpeg"
+                },
+                "start_date": {
+                    "year": "1960"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Allen’s wife and baby Roxanne Marie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1915\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan0.jpeg\"></a> <a href=\"#event-1920\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan18.jpeg\" </a> "
+                },
+                "unique_id": "1960"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan1.jpeg",
+                    "thumbnail": "images/Colpitts-Scan1.jpeg"
+                },
+                "start_date": {
+                    "year": "1961"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Susan on front porch on her birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Kids, Birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1957\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan81.jpeg\"></a>  "
+                },
+                "unique_id": "1961"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan85.jpeg",
+                    "thumbnail": "images/Colpitts-Scan85.jpeg"
+                },
+                "start_date": {
+                    "year": "1962"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> George at the beach during a vacation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1925\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan39.jpeg\"></a> <a href=\"#event-1951\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan45.jpeg\" </a> "
+                },
+                "unique_id": "1962"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan84.jpeg",
+                    "thumbnail": "images/Colpitts-Scan84.jpeg"
+                },
+                "start_date": {
+                    "year": "1963"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> George mowing the lawn on a push mower </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Yard, Adults, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1918\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan9.jpeg\"></a>  "
+                },
+                "unique_id": "1963"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan86.jpeg",
+                    "thumbnail": "images/Colpitts-Scan86.jpeg"
+                },
+                "start_date": {
+                    "year": "1964"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Susan's graduation from kindergarten </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2012\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital19.jpeg\"></a> <a href=\"#event-2006\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan2006.jpeg\" </a> "
+                },
+                "unique_id": "1964"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan0.jpeg",
+                    "thumbnail": "images/Colpitts-Scan0.jpeg"
+                },
+                "start_date": {
+                    "year": "1965"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Jennie + Susie + Pam + Molly + Cyndia </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1959\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan83.jpeg\"></a> <a href=\"#event-2015-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital22.jpeg\" </a> "
+                },
+                "unique_id": "1965"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan87.jpeg",
+                    "thumbnail": "images/Colpitts-Scan87.jpeg"
+                },
+                "start_date": {
+                    "year": "1966"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Susan’s 9th birthday- hitting a piñata in her house </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday, Kid </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2001\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan73.jpeg\"></a> <a href=\"#event-1989\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan33.jpeg\" </a> <a href=\"#event-2009\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital16.jpeg\" </a>"
+                },
+                "unique_id": "1966"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan5.jpeg",
+                    "thumbnail": "images/Colpitts-Scan5.jpeg"
+                },
+                "start_date": {
+                    "year": "1968"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Ann’s Backyard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Yard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2000\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan65.jpeg\"></a> <a href=\"#event-1969\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan8.jpeg\" </a> "
+                },
+                "unique_id": "1968"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan8.jpeg",
+                    "thumbnail": "images/Colpitts-Scan8.jpeg"
+                },
+                "start_date": {
+                    "year": "1969"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Horseback riding </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1969\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan5.jpeg\"></a> <a href=\"#event-2000\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan65.jpeg\" </a> "
+                },
+                "unique_id": "1969"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan6.jpeg",
+                    "thumbnail": "images/Colpitts-Scan6.jpeg"
+                },
+                "start_date": {
+                    "year": "1970"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Ann, Alex, and Karen (5 months) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1973\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan4.jpeg\"></a>  "
+                },
+                "unique_id": "1970"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan3.jpeg",
+                    "thumbnail": "images/Colpitts-Scan3.jpeg"
+                },
+                "start_date": {
+                    "year": "1971"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Daddy at Thanksgiving </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1974\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan9.jpeg\"></a> <a href=\"#event-1979\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan18.jpeg\" </a> "
+                },
+                "unique_id": "1971"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan10.jpeg",
+                    "thumbnail": "images/Colpitts-Scan10.jpeg"
+                },
+                "start_date": {
+                    "year": "1972"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Christmas ‘72 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holidays, Kids, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2002\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan69.jpeg\"></a> <a href=\"#event-2011-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital6.jpeg\" </a> "
+                },
+                "unique_id": "1972"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan4.jpeg",
+                    "thumbnail": "images/Colpitts-Scan4.jpeg"
+                },
+                "start_date": {
+                    "year": "1973"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> On Vacation- Karen 2 1/2 years </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1970\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan6.jpeg\"></a>  "
+                },
+                "unique_id": "1973"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan9.jpeg",
+                    "thumbnail": "images/Colpitts-Scan9.jpeg"
+                },
+                "start_date": {
+                    "year": "1974"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1971\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan3.jpeg\"></a> <a href=\"#event-1979\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan18.jpeg\" </a> "
+                },
+                "unique_id": "1974"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan7.jpeg",
+                    "thumbnail": "images/Colpitts-Scan7.jpeg"
+                },
+                "start_date": {
+                    "year": "1975"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Mollie Morris, Susie, Angie, Elizabeth Stein- High School Graduation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1937\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan38.jpeg\"></a> <a href=\"#event-1933\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan37.jpeg\" </a> "
+                },
+                "unique_id": "1975"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan15.jpeg",
+                    "thumbnail": "images/Colpitts-Scan15.jpeg"
+                },
+                "start_date": {
+                    "year": "1976"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> George at pool </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2000-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan68.jpeg\"></a> <a href=\"#event-1997\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan56.jpeg\" </a> <a href=\"#event-2015\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital11.jpeg\" </a>"
+                },
+                "unique_id": "1976"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan13.jpeg",
+                    "thumbnail": "images/Colpitts-Scan13.jpeg"
+                },
+                "start_date": {
+                    "year": "1977"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Ann, Karen, Susan at train station </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1941\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan41.jpeg\"></a> <a href=\"#event-1978\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan19.jpeg\" </a> "
+                },
+                "unique_id": "1977"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan19.jpeg",
+                    "thumbnail": "images/Colpitts-Scan19.jpeg"
+                },
+                "start_date": {
+                    "year": "1978"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Tailgate at Virginia Tech </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Cars, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1977\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan13.jpeg\"></a> <a href=\"#event-1941\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan41.jpeg\" </a> "
+                },
+                "unique_id": "1978"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan18.jpeg",
+                    "thumbnail": "images/Colpitts-Scan18.jpeg"
+                },
+                "start_date": {
+                    "year": "1979"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1974\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan9.jpeg\"></a> <a href=\"#event-1971\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan3.jpeg\" </a> "
+                },
+                "unique_id": "1979"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan23.jpeg",
+                    "thumbnail": "images/Colpitts-Scan23.jpeg"
+                },
+                "start_date": {
+                    "year": "1980"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> What style!! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2016-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital12.jpeg\"></a> <a href=\"#event-2007-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital14.jpeg\" </a> <a href=\"#event-1917\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan10.jpeg\" </a>"
+                },
+                "unique_id": "1980"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan24.jpeg",
+                    "thumbnail": "images/Colpitts-Scan24.jpeg"
+                },
+                "start_date": {
+                    "year": "1982"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Susan and Norman’s Wedding </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1948\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan43.jpeg\"></a> <a href=\"#event-1984\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan27.jpeg\" </a> "
+                },
+                "unique_id": "1982"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan29.jpeg",
+                    "thumbnail": "images/Colpitts-Scan29.jpeg"
+                },
+                "start_date": {
+                    "year": "1983"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Getting the car ready to head back to VA </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Adults, Cars </p>"
+                },
+                "unique_id": "1983"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan27.jpeg",
+                    "thumbnail": "images/Colpitts-Scan27.jpeg"
+                },
+                "start_date": {
+                    "year": "1984"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> In Albuquerque on our way to the fancy place for dinner- Tommy (15), Mom, Dorothy and Dan </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1948\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan43.jpeg\"></a> <a href=\"#event-1982\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan24.jpeg\" </a> "
+                },
+                "unique_id": "1984"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan28.jpeg",
+                    "thumbnail": "images/Colpitts-Scan28.jpeg"
+                },
+                "start_date": {
+                    "year": "1986"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Norman sailing </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Adults </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1924\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan24.jpeg\"></a> <a href=\"#event-1925\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan28.jpeg\" </a> <a href=\"#event-2003\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan72.jpeg\" </a>"
+                },
+                "unique_id": "1986"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan31.jpeg",
+                    "thumbnail": "images/Colpitts-Scan31.jpeg"
+                },
+                "start_date": {
+                    "year": "1987"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Susan (29) pregnant with Lily. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Adults, Newborns/Pregnancy </p>"
+                },
+                "unique_id": "1987"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan30.jpeg",
+                    "thumbnail": "images/Colpitts-Scan30.jpeg"
+                },
+                "start_date": {
+                    "year": "1988"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> George and Mary Elizabeth holding Lily </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Newborns/Pregnancy </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2006-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital1.jpeg\"></a>  "
+                },
+                "unique_id": "1988"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan33.jpeg",
+                    "thumbnail": "images/Colpitts-Scan33.jpeg"
+                },
+                "start_date": {
+                    "year": "1989"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily’s first birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2009\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital16.jpeg\"></a> <a href=\"#event-2001\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan73.jpeg\" </a> <a href=\"#event-1966\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan87.jpeg\" </a>"
+                },
+                "unique_id": "1989"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan75.jpeg",
+                    "thumbnail": "images/Colpitts-Scan75.jpeg"
+                },
+                "start_date": {
+                    "year": "1990"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Hi Grandma! Sisters Lily and Annie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1916\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan3.jpeg\"></a> <a href=\"#event-1958\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan82.jpeg\" </a> <a href=\"#event-1992\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan44.jpeg\" </a>"
+                },
+                "unique_id": "1990"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan41.jpeg",
+                    "thumbnail": "images/Colpitts-Scan41.jpeg"
+                },
+                "start_date": {
+                    "year": "1991"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily playing on the swing at the park </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2012-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital7.jpeg\"></a>  "
+                },
+                "unique_id": "1991"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan40.jpeg",
+                    "thumbnail": "images/Colpitts-Scan40.jpeg"
+                },
+                "start_date": {
+                    "year": "1991"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily First day of school- 3 years </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Event, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1922\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan26.jpeg\"></a> <a href=\"#event-2013\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital8.jpeg\" </a> "
+                },
+                "unique_id": "1991-2"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan44.jpeg",
+                    "thumbnail": "images/Colpitts-Scan44.jpeg"
+                },
+                "start_date": {
+                    "year": "1992"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Annie and Lily eating watermelon </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Kids, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1916\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan3.jpeg\"></a> <a href=\"#event-1958\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan82.jpeg\" </a> <a href=\"#event-1990\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan75.jpeg\" </a>"
+                },
+                "unique_id": "1992"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan39.jpeg",
+                    "thumbnail": "images/Colpitts-Scan39.jpeg"
+                },
+                "start_date": {
+                    "year": "1992"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily and Annie on Halloween </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Costumes, Kids, Holiday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1934\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan33.jpeg\"></a> <a href=\"#event-2010\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital17.jpeg\" </a> "
+                },
+                "unique_id": "1992-2"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan46.jpeg",
+                    "thumbnail": "images/Colpitts-Scan46.jpeg"
+                },
+                "start_date": {
+                    "year": "1993"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily, Annie and her friends on a Red Flyer wagon </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1923\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan29.jpeg\"></a> <a href=\"#event-2008\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital3.jpeg\" </a> "
+                },
+                "unique_id": "1993"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan53.jpeg",
+                    "thumbnail": "images/Colpitts-Scan53.jpeg"
+                },
+                "start_date": {
+                    "year": "1994"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Annie and Lily July 1994 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Cars, Kids, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1926\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan30.jpeg\"></a> <a href=\"#event-1919-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan16.jpeg\" </a> <a href=\"#event-2008-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital15.jpeg\" </a>"
+                },
+                "unique_id": "1994"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan78.jpeg",
+                    "thumbnail": "images/Colpitts-Scan78.jpeg"
+                },
+                "start_date": {
+                    "year": "1995"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Annie in the sandbox </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1953\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan47.jpeg\"></a> <a href=\"#event-2007\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital2.jpeg\" </a> "
+                },
+                "unique_id": "1995"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan52.jpeg",
+                    "thumbnail": "images/Colpitts-Scan52.jpeg"
+                },
+                "start_date": {
+                    "year": "1995"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Julia learning to ride her bike next to her dad </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1997-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan58.jpeg\"></a>  "
+                },
+                "unique_id": "1995-2"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan55.jpeg",
+                    "thumbnail": "images/Colpitts-Scan55.jpeg"
+                },
+                "start_date": {
+                    "year": "1996"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily getting her badge in the Girlscouts </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Military/Scouts, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1932\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan35.jpeg\"></a>  "
+                },
+                "unique_id": "1996"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan56.jpeg",
+                    "thumbnail": "images/Colpitts-Scan56.jpeg"
+                },
+                "start_date": {
+                    "year": "1997"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Friends in the neighborhood “sunbathing” on the lawn </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2000-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan68.jpeg\"></a> <a href=\"#event-2015\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital11.jpeg\" </a> <a href=\"#event-1976\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan15.jpeg\" </a>"
+                },
+                "unique_id": "1997"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan58.jpeg",
+                    "thumbnail": "images/Colpitts-Scan58.jpeg"
+                },
+                "start_date": {
+                    "year": "1997"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> 4th of July in the neighborhood </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Holiday, Kids, Summer </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1995-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan52.jpeg\"></a>  "
+                },
+                "unique_id": "1997-2"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan61.jpeg",
+                    "thumbnail": "images/Colpitts-Scan61.jpeg"
+                },
+                "start_date": {
+                    "year": "1998"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily (10), Lib Roberts (Susan’s mom), Julia (4) Summer 1998 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2005\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan2005.jpeg\"></a>  "
+                },
+                "unique_id": "1998"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan63.jpeg",
+                    "thumbnail": "images/Colpitts-Scan63.jpeg"
+                },
+                "start_date": {
+                    "year": "1999"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Summer 1999 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1921\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan23.jpeg\"></a> <a href=\"#event-2011\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital18.jpeg\" </a> "
+                },
+                "unique_id": "1999"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan65.jpeg",
+                    "thumbnail": "images/Colpitts-Scan65.jpeg"
+                },
+                "start_date": {
+                    "year": "2000"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> White Top Mountain </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1968\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan5.jpeg\"></a> <a href=\"#event-1969\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan8.jpeg\" </a> "
+                },
+                "unique_id": "2000"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan68.jpeg",
+                    "thumbnail": "images/Colpitts-Scan68.jpeg"
+                },
+                "start_date": {
+                    "year": "2000"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> The river at Family Camp </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2015\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital11.jpeg\"></a> <a href=\"#event-1997\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan56.jpeg\" </a> <a href=\"#event-1976\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan15.jpeg\" </a>"
+                },
+                "unique_id": "2000-2"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan73.jpeg",
+                    "thumbnail": "images/Colpitts-Scan73.jpeg"
+                },
+                "start_date": {
+                    "year": "2001"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Norman, Julia- 2001 on Julia’s 7th Birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1966\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan87.jpeg\"></a> <a href=\"#event-2009\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital16.jpeg\" </a> <a href=\"#event-1989\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan33.jpeg\" </a>"
+                },
+                "unique_id": "2001"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan69.jpeg",
+                    "thumbnail": "images/Colpitts-Scan69.jpeg"
+                },
+                "start_date": {
+                    "year": "2002"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Lily at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Holiday, Winter, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1972\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan10.jpeg\"></a> <a href=\"#event-2011-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital6.jpeg\" </a> "
+                },
+                "unique_id": "2002"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan72.jpeg",
+                    "thumbnail": "images/Colpitts-Scan72.jpeg"
+                },
+                "start_date": {
+                    "year": "2003"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Annie at camp in West Virginia </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1986\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan28.jpeg\"></a> <a href=\"#event-1925\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan28.jpeg\" </a> <a href=\"#event-1924\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan24.jpeg\" </a>"
+                },
+                "unique_id": "2003"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan2004.jpeg",
+                    "thumbnail": "images/Colpitts-Scan2004.jpeg"
+                },
+                "start_date": {
+                    "year": "2004"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Annie, Lily and Julia on the beach </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Vacation </p>"
+                },
+                "unique_id": "2004"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan2005.jpeg",
+                    "thumbnail": "images/Colpitts-Scan2005.jpeg"
+                },
+                "start_date": {
+                    "year": "2005"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> The Colpitts Family </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1998\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan61.jpeg\"></a>  "
+                },
+                "unique_id": "2005"
+            },
+            {
+                "media": {
+                    "url": "images/Colpitts-Scan2006.jpeg",
+                    "thumbnail": "images/Colpitts-Scan2006.jpeg"
+                },
+                "start_date": {
+                    "year": "2006"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> High school graduation- Lily Colpitts, Hannah Woodlan, Cappie Linde, John Ford and Karen D'Angelo. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Event, Outside, Kids, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1964\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan86.jpeg\"></a> <a href=\"#event-2012\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital19.jpeg\" </a> "
+                },
+                "unique_id": "2006"
+            },
+            {
+                "media": {
+                    "url": "images/Digital1.jpeg",
+                    "thumbnail": "images/Digital1.jpeg"
+                },
+                "start_date": {
+                    "year": "2006"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Here is a picture of Josie with her great-grandma Nana. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Portrait, Newborns/Pregnancy </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1988\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan30.jpeg\"></a>  "
+                },
+                "unique_id": "2006"
+            },
+            {
+                "media": {
+                    "url": "images/Digital2.jpeg",
+                    "thumbnail": "images/Digital2.jpeg"
+                },
+                "start_date": {
+                    "year": "2007"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Happy Father's Day </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Holiday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1953\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan47.jpeg\"></a> <a href=\"#event-1995\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan78.jpeg\" </a> "
+                },
+                "unique_id": "2007"
+            },
+            {
+                "media": {
+                    "url": "images/Digital14.jpeg",
+                    "thumbnail": "images/Digital14.jpeg"
+                },
+                "start_date": {
+                    "year": "2007"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Cross country skiing with baby and dog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2016-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital12.jpeg\"></a> <a href=\"#event-1917\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan10.jpeg\" </a> <a href=\"#event-1980\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan23.jpeg\" </a>"
+                },
+                "unique_id": "2007-2"
+            },
+            {
+                "media": {
+                    "url": "images/Digital3.jpeg",
+                    "thumbnail": "images/Digital3.jpeg"
+                },
+                "start_date": {
+                    "year": "2008"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> On Monday we went apple picking with our neighbors. We picked a bunch of apples and I have already made my first batch of homemade applesauce and its so tasty...many more apples to peel though before I can make more. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Playing, Outside, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1993\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan46.jpeg\"></a> <a href=\"#event-1923\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan29.jpeg\" </a> "
+                },
+                "unique_id": "2008"
+            },
+            {
+                "media": {
+                    "url": "images/Digital15.jpeg",
+                    "thumbnail": "images/Digital15.jpeg"
+                },
+                "start_date": {
+                    "year": "2008"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Nothing exciting- We haven't been doing much lately, lots of hanging out.  </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Playing, Kids, Outside </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1926\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan30.jpeg\"></a> <a href=\"#event-1994\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan53.jpeg\" </a> <a href=\"#event-1919-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan16.jpeg\" </a>"
+                },
+                "unique_id": "2008-2"
+            },
+            {
+                "media": {
+                    "url": "images/Digital16.jpeg",
+                    "thumbnail": "images/Digital16.jpeg"
+                },
+                "start_date": {
+                    "year": "2009"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Happy Birthday to my first little girl! Josie at three is talkative, cautious, creative, sweet, loving, and so special! We love you Josie! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Birthday, Outside </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1989\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan33.jpeg\"></a> <a href=\"#event-2001\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan73.jpeg\" </a> <a href=\"#event-1966\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan87.jpeg\" </a>"
+                },
+                "unique_id": "2009"
+            },
+            {
+                "media": {
+                    "url": "images/Digital17.jpeg",
+                    "thumbnail": "images/Digital17.jpeg"
+                },
+                "start_date": {
+                    "year": "2010"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> A lion and a princess </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Costumes, Kids, Holiday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1992-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan39.jpeg\"></a> <a href=\"#event-1934\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan33.jpeg\" </a> "
+                },
+                "unique_id": "2010"
+            },
+            {
+                "media": {
+                    "url": "images/Digital18.jpeg",
+                    "thumbnail": "images/Digital18.jpeg"
+                },
+                "start_date": {
+                    "year": "2011"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Outer Banks 2011-\nWe spent a lot of time on the beach this year. No one was sick and Maggie was old enough to enjoy the beach :)</p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Vacation, Outside </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1999\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan63.jpeg\"></a> <a href=\"#event-1921\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan23.jpeg\" </a> "
+                },
+                "unique_id": "2011"
+            },
+            {
+                "media": {
+                    "url": "images/Digital6.jpeg",
+                    "thumbnail": "images/Digital6.jpeg"
+                },
+                "start_date": {
+                    "year": "2011"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Opening the first gift! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holidays, Kids, Winter </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2002\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan69.jpeg\"></a> <a href=\"#event-1972\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan10.jpeg\" </a> "
+                },
+                "unique_id": "2011-2"
+            },
+            {
+                "media": {
+                    "url": "images/Digital19.jpeg",
+                    "thumbnail": "images/Digital19.jpeg"
+                },
+                "start_date": {
+                    "year": "2012"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Josie at Pre-K graduation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Event, Inside, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1964\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan86.jpeg\"></a> <a href=\"#event-2006\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan2006.jpeg\" </a> "
+                },
+                "unique_id": "2012"
+            },
+            {
+                "media": {
+                    "url": "images/Digital7.jpeg",
+                    "thumbnail": "images/Digital7.jpeg"
+                },
+                "start_date": {
+                    "year": "2012"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Swinging at the park in January! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1991\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan41.jpeg\"></a>  "
+                },
+                "unique_id": "2012-2"
+            },
+            {
+                "media": {
+                    "url": "images/Digital8.jpeg",
+                    "thumbnail": "images/Digital8.jpeg"
+                },
+                "start_date": {
+                    "year": "2013"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> First day of First Grade for Josie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1991-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan40.jpeg\"></a> <a href=\"#event-1922\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan26.jpeg\" </a> "
+                },
+                "unique_id": "2013"
+            },
+            {
+                "media": {
+                    "url": "images/Digital10.jpeg",
+                    "thumbnail": "images/Digital10.jpeg"
+                },
+                "start_date": {
+                    "year": "2014"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> These two flower girls nailed it yesterday at Uncle Johnny's wedding! #pearsongrassemerger </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Portrait, Event, Kids, Outside </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1949\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan44.jpeg\"></a> <a href=\"#event-1955\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan80.jpeg\" </a> <a href=\"#event-1936\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan34.jpeg\" </a>"
+                },
+                "unique_id": "2014"
+            },
+            {
+                "media": {
+                    "url": "images/Digital11.jpeg",
+                    "thumbnail": "images/Digital11.jpeg"
+                },
+                "start_date": {
+                    "year": "2015"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Building a Barbie pool #doorcounty </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Kids </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2000-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan68.jpeg\"></a> <a href=\"#event-1997\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan56.jpeg\" </a> <a href=\"#event-1976\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan15.jpeg\" </a>"
+                },
+                "unique_id": "2015"
+            },
+            {
+                "media": {
+                    "url": "images/Digital22.jpeg",
+                    "thumbnail": "images/Digital22.jpeg"
+                },
+                "start_date": {
+                    "year": "2015"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Best of friends and bitter enemies all within a matter of minutes #sisters </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Portrait, Vacation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1959\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan83.jpeg\"></a> <a href=\"#event-1965\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan0.jpeg\" </a> "
+                },
+                "unique_id": "2015-2"
+            },
+            {
+                "media": {
+                    "url": "images/Digital23.jpeg",
+                    "thumbnail": "images/Digital23.jpeg"
+                },
+                "start_date": {
+                    "year": "2016"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Happy 5 years with our family sweet Luna </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Kids </p>"
+                },
+                "unique_id": "2016"
+            },
+            {
+                "media": {
+                    "url": "images/Digital12.jpeg",
+                    "thumbnail": "images/Digital12.jpeg"
+                },
+                "start_date": {
+                    "year": "2016"
+                },
+                "text": {
+                    "text": "<p class=\"caption\"> Snow. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Winter, Playing </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-1917\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Scan10.jpeg\"></a> <a href=\"#event-2007-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital14.jpeg\" </a> <a href=\"#event-1980\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan23.jpeg\" </a>"
+                },
+                "unique_id": "2016-2"
+            },
+            {
+                "start_date": {
+                    "year": "2016"
+                },
+                "text": {
+                    "text": "Here is some information about the end of the slideshow"
+                },
+                "unique_id": "fin"
+            }
+        ]
+}

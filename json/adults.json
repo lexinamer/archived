@@ -1,0 +1,245 @@
+{
+  "title": {
+      "text": {
+        "headline": "Adults",
+        "text": "<p>These are all the photos in the collection that depict only adults- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan28.jpeg",
+                  "thumbnail": "images/Scan28.jpeg"
+              },
+              "start_date": {
+                  "year": "1925"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy and Brother Bill- Chase Lake </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults, Playing </p>"
+              },
+              "unique_id": "1925"
+          },
+          {
+              "media": {
+                  "url": "images/Scan31.jpeg",
+                  "thumbnail": "images/Scan31.jpeg"
+              },
+              "start_date": {
+                  "year": "1930"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Father Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p>"
+              },
+              "unique_id": "1930"
+          },
+          {
+              "media": {
+                  "url": "images/Scan39.jpeg",
+                  "thumbnail": "images/Scan39.jpeg"
+              },
+              "start_date": {
+                  "year": "1935"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald Beaumont Robinson- Glenfield NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Adults </p>"
+              },
+              "unique_id": "1935"
+          },
+          {
+              "media": {
+                  "url": "images/Scan41.jpeg",
+                  "thumbnail": "images/Scan41.jpeg"
+              },
+              "start_date": {
+                  "year": "1941"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Grandpa Robinson and Granddaughter Marion Robinson, daughter of Arthur Robinson. Summer 1941 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p>"
+              },
+              "unique_id": "1941"
+          },
+          {
+              "media": {
+                  "url": "images/Scan48.jpeg",
+                  "thumbnail": "images/Scan48.jpeg"
+              },
+              "start_date": {
+                  "year": "1942"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mr and Mrs Theron Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Military/Scouts, Adults, Outside, Winter </p>"
+              },
+              "unique_id": "1942"
+          },
+          {
+              "media": {
+                  "url": "images/Scan36.jpeg",
+                  "thumbnail": "images/Scan36.jpeg"
+              },
+              "start_date": {
+                  "year": "1945"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald, taken at Great Lakes </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Military/Scouts, Adults </p>"
+              },
+              "unique_id": "1945"
+          },
+          {
+              "media": {
+                  "url": "images/Scan45.jpeg",
+                  "thumbnail": "images/Scan45.jpeg"
+              },
+              "start_date": {
+                  "year": "1951"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy and his prize peas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Adults </p>"
+              },
+              "unique_id": "1951"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan85.jpeg",
+                  "thumbnail": "images/Colpitts-Scan85.jpeg"
+              },
+              "start_date": {
+                  "year": "1962"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George at the beach during a vacation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults </p>"
+              },
+              "unique_id": "1962"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan84.jpeg",
+                  "thumbnail": "images/Colpitts-Scan84.jpeg"
+              },
+              "start_date": {
+                  "year": "1963"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George mowing the lawn on a push mower </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p>"
+              },
+              "unique_id": "1963"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan3.jpeg",
+                  "thumbnail": "images/Colpitts-Scan3.jpeg"
+              },
+              "start_date": {
+                  "year": "1971"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy at Thanksgiving </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults </p>"
+              },
+              "unique_id": "1971"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan9.jpeg",
+                  "thumbnail": "images/Colpitts-Scan9.jpeg"
+              },
+              "start_date": {
+                  "year": "1974"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p>"
+              },
+              "unique_id": "1974"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan19.jpeg",
+                  "thumbnail": "images/Colpitts-Scan19.jpeg"
+              },
+              "start_date": {
+                  "year": "1978"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Tailgate at Virginia Tech </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Cars, Adults </p>"
+              },
+              "unique_id": "1978"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan18.jpeg",
+                  "thumbnail": "images/Colpitts-Scan18.jpeg"
+              },
+              "start_date": {
+                  "year": "1979"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p>"
+              },
+              "unique_id": "1979"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan23.jpeg",
+                  "thumbnail": "images/Colpitts-Scan23.jpeg"
+              },
+              "start_date": {
+                  "year": "1980"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> What style!! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Adults </p>"
+              },
+              "unique_id": "1980"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan24.jpeg",
+                  "thumbnail": "images/Colpitts-Scan24.jpeg"
+              },
+              "start_date": {
+                  "year": "1982"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan and Norman’s Wedding </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Adults </p>"
+              },
+              "unique_id": "1982"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan29.jpeg",
+                  "thumbnail": "images/Colpitts-Scan29.jpeg"
+              },
+              "start_date": {
+                  "year": "1983"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Getting the car ready to head back to VA </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Adults, Cars </p>"
+              },
+              "unique_id": "1983"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan28.jpeg",
+                  "thumbnail": "images/Colpitts-Scan28.jpeg"
+              },
+              "start_date": {
+                  "year": "1986"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Norman sailing </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Adults </p>"
+              },
+              "unique_id": "1986"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan31.jpeg",
+                  "thumbnail": "images/Colpitts-Scan31.jpeg"
+              },
+              "start_date": {
+                  "year": "1987"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan (29) pregnant with Lily. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Adults, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "1987"
+          }
+        ]
+}

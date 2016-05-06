@@ -1,0 +1,259 @@
+{
+  "title": {
+      "text": {
+        "headline": "Portraits",
+        "text": "<p>These are all the photos in the collection that are more formal in pose or traditional portraits- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan0.jpeg",
+                  "thumbnail": "images/Scan0.jpeg"
+              },
+              "start_date": {
+                  "year": "1915"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mrs Farr and Baby Elizabeth </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy, Portrait </p>"
+              },
+              "unique_id": "1915"
+          },
+          {
+              "media": {
+                  "url": "images/Scan18.jpeg",
+                  "thumbnail": "images/Scan18.jpeg"
+              },
+              "start_date": {
+                  "year": "1920"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> “I like the way my daddy holds me.” Marion Helen (delivered 1/26/20) is being held by her father. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Outside, Portrait </p>"
+              },
+              "unique_id": "1920"
+          },
+          {
+              "media": {
+                  "url": "images/Scan37.jpeg",
+                  "thumbnail": "images/Scan37.jpeg"
+              },
+              "start_date": {
+                  "year": "1933"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> High School Graduation, Reginald, Glenfield NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids, Portrait </p>"
+              },
+              "unique_id": "1933"
+          },
+          {
+              "media": {
+                  "url": "images/Scan39.jpeg",
+                  "thumbnail": "images/Scan39.jpeg"
+              },
+              "start_date": {
+                  "year": "1935"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald Beaumont Robinson- Glenfield NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Adults </p> "
+              },
+              "unique_id": "1935"
+          },
+          {
+              "media": {
+                  "url": "images/Scan34.jpeg",
+                  "thumbnail": "images/Scan34.jpeg"
+              },
+              "start_date": {
+                  "year": "1936"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Anna Youworski, Marion and “Patty” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids, Winter </p>"
+              },
+              "unique_id": "1936"
+          },
+          {
+              "media": {
+                  "url": "images/Scan38.jpeg",
+                  "thumbnail": "images/Scan38.jpeg"
+              },
+              "start_date": {
+                  "year": "1937"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Marion’s Graduation - Marion Helen Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Portrait, Kids </p>"
+              },
+              "unique_id": "1937"
+          },
+          {
+              "media": {
+                  "url": "images/Scan41.jpeg",
+                  "thumbnail": "images/Scan41.jpeg"
+              },
+              "start_date": {
+                  "year": "1941"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Grandpa Robinson and Granddaughter Marion Robinson, daughter of Arthur Robinson. Summer 1941 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars, Adults, Portrait </p>"
+              },
+              "unique_id": "1941"
+          },
+          {
+              "media": {
+                  "url": "images/Scan43.jpeg",
+                  "thumbnail": "images/Scan43.jpeg"
+              },
+              "start_date": {
+                  "year": "1948"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> My family- Reginald, Vera holding David, Daddy with Ken in front, Marion with Nancy in front, and Bill </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait </p>"
+              },
+              "unique_id": "1948"
+          },
+          {
+              "media": {
+                  "url": "images/Scan44.jpeg",
+                  "thumbnail": "images/Scan44.jpeg"
+              },
+              "start_date": {
+                  "year": "1949"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Kennie and Nancy. (Marion’s children outside their home). </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids </p>"
+              },
+              "unique_id": "1949"
+          },
+          {
+              "media": {
+                  "url": "images/Scan45.jpeg",
+                  "thumbnail": "images/Scan45.jpeg"
+              },
+              "start_date": {
+                  "year": "1951"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy and his prize peas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Adults </p> "
+              },
+              "unique_id": "1951"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan83.jpeg",
+                  "thumbnail": "images/Colpitts-Scan83.jpeg"
+              },
+              "start_date": {
+                  "year": "1959"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Jack and Susan sit on a cannon during a vacation to Valley Forge </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Kids, Portrait </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#icons\">Similar Photos</a> </p> <a href=\"#event-2015-2\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Digital22.jpeg\"></a> <a href=\"#event-1965\" onClick=\"window.location.reload()\"> <img class=\"related\"  src=\"images/Colpitts-Scan0.jpeg\" </a> "
+              },
+              "unique_id": "1959"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan86.jpeg",
+                  "thumbnail": "images/Colpitts-Scan86.jpeg"
+              },
+              "start_date": {
+                  "year": "1964"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan's graduation from kindergarten </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids, Portrait </p>"
+              },
+              "unique_id": "1964"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan0.jpeg",
+                  "thumbnail": "images/Colpitts-Scan0.jpeg"
+              },
+              "start_date": {
+                  "year": "1965"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Jennie + Susie + Pam + Molly + Cyndia </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait, Kids </p>"
+              },
+              "unique_id": "1965"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan61.jpeg",
+                  "thumbnail": "images/Colpitts-Scan61.jpeg"
+              },
+              "start_date": {
+                  "year": "1998"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily (10), Lib Roberts (Susan’s mom), Julia (4) Summer 1998 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Portrait </p>"
+              },
+              "unique_id": "1998"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan2005.jpeg",
+                  "thumbnail": "images/Colpitts-Scan2005.jpeg"
+              },
+              "start_date": {
+                  "year": "2005"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> The Colpitts Family </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Portrait </p>"
+              },
+              "unique_id": "2005"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan2006.jpeg",
+                  "thumbnail": "images/Colpitts-Scan2006.jpeg"
+              },
+              "start_date": {
+                  "year": "2006"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> High school graduation- Lily Colpitts, Hannah Woodlan, Cappie Linde, John Ford and Karen D'Angelo. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Event, Outside, Kids, Portrait </p>"
+              },
+              "unique_id": "2006"
+          },
+          {
+              "media": {
+                  "url": "images/Digital1.jpeg",
+                  "thumbnail": "images/Digital1.jpeg"
+              },
+              "start_date": {
+                  "year": "2006"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Here is a picture of Josie with her great-grandma Nana. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Portrait, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "2006"
+          },
+          {
+              "media": {
+                  "url": "images/Digital10.jpeg",
+                  "thumbnail": "images/Digital10.jpeg"
+              },
+              "start_date": {
+                  "year": "2014"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> These two flower girls nailed it yesterday at Uncle Johnny's wedding! #pearsongrassemerger </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Portrait, Event, Kids, Outside </p>"
+              },
+              "unique_id": "2014"
+          },
+          {
+              "media": {
+                  "url": "images/Digital22.jpeg",
+                  "thumbnail": "images/Digital22.jpeg"
+              },
+              "start_date": {
+                  "year": "2015"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Best of friends and bitter enemies all within a matter of minutes #sisters </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Portrait, Vacation </p>"
+              },
+              "unique_id": "2015-2"
+          }
+
+        ]
+}

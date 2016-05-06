@@ -1,0 +1,168 @@
+{
+  "title": {
+      "text": {
+        "headline": "Events",
+        "text": "<p>These are all the photos in the collection that depict important events not included in the other themes- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan26.jpeg",
+                  "thumbnail": "images/Scan26.jpeg"
+              },
+              "start_date": {
+                  "year": "1922"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald’s 1st day at school </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids </p>"
+              },
+              "unique_id": "1922"
+          },
+          {
+              "media": {
+                  "url": "images/Scan37.jpeg",
+                  "thumbnail": "images/Scan37.jpeg"
+              },
+              "start_date": {
+                  "year": "1933"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> High School Graduation, Reginald, Glenfield NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids, Portrait </p> "
+              },
+              "unique_id": "1933"
+          },
+          {
+              "media": {
+                  "url": "images/Scan38.jpeg",
+                  "thumbnail": "images/Scan38.jpeg"
+              },
+              "start_date": {
+                  "year": "1937"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Marion’s Graduation - Marion Helen Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Portrait, Kids </p>"
+              },
+              "unique_id": "1937"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan86.jpeg",
+                  "thumbnail": "images/Colpitts-Scan86.jpeg"
+              },
+              "start_date": {
+                  "year": "1964"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan's graduation from kindergarten </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids, Portrait </p>"
+              },
+              "unique_id": "1964"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan7.jpeg",
+                  "thumbnail": "images/Colpitts-Scan7.jpeg"
+              },
+              "start_date": {
+                  "year": "1975"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mollie Morris, Susie, Angie, Elizabeth Stein- High School Graduation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids </p>"
+              },
+              "unique_id": "1975"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan19.jpeg",
+                  "thumbnail": "images/Colpitts-Scan19.jpeg"
+              },
+              "start_date": {
+                  "year": "1978"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Tailgate at Virginia Tech </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Cars, Adults </p> "
+              },
+              "unique_id": "1978"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan24.jpeg",
+                  "thumbnail": "images/Colpitts-Scan24.jpeg"
+              },
+              "start_date": {
+                  "year": "1982"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan and Norman’s Wedding </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Adults </p>"
+              },
+              "unique_id": "1982"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan40.jpeg",
+                  "thumbnail": "images/Colpitts-Scan40.jpeg"
+              },
+              "start_date": {
+                  "year": "1991"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily First day of school- 3 years </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Event, Kids </p>"
+              },
+              "unique_id": "1991-2"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan2006.jpeg",
+                  "thumbnail": "images/Colpitts-Scan2006.jpeg"
+              },
+              "start_date": {
+                  "year": "2006"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> High school graduation- Lily Colpitts, Hannah Woodlan, Cappie Linde, John Ford and Karen D'Angelo. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Event, Outside, Kids, Portrait </p>"
+              },
+              "unique_id": "2006"
+          },
+          {
+              "media": {
+                  "url": "images/Digital19.jpeg",
+                  "thumbnail": "images/Digital19.jpeg"
+              },
+              "start_date": {
+                  "year": "2012"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Josie at Pre-K graduation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Event, Inside, Kids </p>"
+              },
+              "unique_id": "2012"
+          },
+          {
+              "media": {
+                  "url": "images/Digital8.jpeg",
+                  "thumbnail": "images/Digital8.jpeg"
+              },
+              "start_date": {
+                  "year": "2013"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> First day of First Grade for Josie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Kids </p>"
+              },
+              "unique_id": "2013"
+          },
+          {
+              "media": {
+                  "url": "images/Digital10.jpeg",
+                  "thumbnail": "images/Digital10.jpeg"
+              },
+              "start_date": {
+                  "year": "2014"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> These two flower girls nailed it yesterday at Uncle Johnny's wedding! #pearsongrassemerger </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Portrait, Event, Kids, Outside </p>"
+              },
+              "unique_id": "2014"
+          }
+
+        ]
+}

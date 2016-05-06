@@ -1,0 +1,180 @@
+{
+  "title": {
+      "text": {
+        "headline": "Inside",
+        "text": "<p>These are all the photos in the collection that are taken indoors- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan87.jpeg",
+                  "thumbnail": "images/Colpitts-Scan87.jpeg"
+              },
+              "start_date": {
+                  "year": "1966"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan’s 9th birthday- hitting a piñata in her house </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday, Kid </p>"
+              },
+              "unique_id": "1966"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan3.jpeg",
+                  "thumbnail": "images/Colpitts-Scan3.jpeg"
+              },
+              "start_date": {
+                  "year": "1971"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy at Thanksgiving </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults </p>"
+              },
+              "unique_id": "1971"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan10.jpeg",
+                  "thumbnail": "images/Colpitts-Scan10.jpeg"
+              },
+              "start_date": {
+                  "year": "1972"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Christmas ‘72 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holidays, Kids, Winter </p>"
+              },
+              "unique_id": "1972"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan9.jpeg",
+                  "thumbnail": "images/Colpitts-Scan9.jpeg"
+              },
+              "start_date": {
+                  "year": "1974"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p>"
+              },
+              "unique_id": "1974"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan18.jpeg",
+                  "thumbnail": "images/Colpitts-Scan18.jpeg"
+              },
+              "start_date": {
+                  "year": "1979"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad at Christmas </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holiday, Adults, Winter </p>"
+              },
+              "unique_id": "1979"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan33.jpeg",
+                  "thumbnail": "images/Colpitts-Scan33.jpeg"
+              },
+              "start_date": {
+                  "year": "1989"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily’s first birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday </p> "
+              },
+              "unique_id": "1989"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan40.jpeg",
+                  "thumbnail": "images/Colpitts-Scan40.jpeg"
+              },
+              "start_date": {
+                  "year": "1991"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily First day of school- 3 years </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Event, Kids </p>"
+              },
+              "unique_id": "1991-2"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan55.jpeg",
+                  "thumbnail": "images/Colpitts-Scan55.jpeg"
+              },
+              "start_date": {
+                  "year": "1996"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily getting her badge in the Girlscouts </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Military/Scouts, Kids </p>"
+              },
+              "unique_id": "1996"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan73.jpeg",
+                  "thumbnail": "images/Colpitts-Scan73.jpeg"
+              },
+              "start_date": {
+                  "year": "2001"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Norman, Julia- 2001 on Julia’s 7th Birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Birthday, Kids </p>"
+              },
+              "unique_id": "2001"
+          },
+          {
+              "media": {
+                  "url": "images/Digital1.jpeg",
+                  "thumbnail": "images/Digital1.jpeg"
+              },
+              "start_date": {
+                  "year": "2006"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Here is a picture of Josie with her great-grandma Nana. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Portrait, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "2006"
+          },
+          {
+              "media": {
+                  "url": "images/Digital6.jpeg",
+                  "thumbnail": "images/Digital6.jpeg"
+              },
+              "start_date": {
+                  "year": "2011"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Opening the first gift! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Holidays, Kids, Winter </p>"
+              },
+              "unique_id": "2011-2"
+          },
+          {
+              "media": {
+                  "url": "images/Digital19.jpeg",
+                  "thumbnail": "images/Digital19.jpeg"
+              },
+              "start_date": {
+                  "year": "2012"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Josie at Pre-K graduation </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Event, Inside, Kids </p>"
+              },
+              "unique_id": "2012"
+          },
+          {
+              "media": {
+                  "url": "images/Digital23.jpeg",
+                  "thumbnail": "images/Digital23.jpeg"
+              },
+              "start_date": {
+                  "year": "2016"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Happy 5 years with our family sweet Luna </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Kids </p>"
+              },
+              "unique_id": "2016"
+          }
+        ]
+}

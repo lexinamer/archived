@@ -1,0 +1,142 @@
+{
+  "title": {
+      "text": {
+        "headline": "Porch/Yard",
+        "text": "<p>These are all the photos in the collection that depict porches or yards- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan9.jpeg",
+                  "thumbnail": "images/Scan9.jpeg"
+              },
+              "start_date": {
+                  "year": "1918"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> “Baby mows grass, Mommie” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Yard, Playing, Kids, Summer </p>"
+              },
+              "unique_id": "1918"
+          },
+          {
+              "media": {
+                  "url": "images/Scan6.jpeg",
+                  "thumbnail": "images/Scan6.jpeg"
+              },
+              "start_date": {
+                  "year": "1920"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> “He is reading like Daddy but his paper is upside down as usual” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Porch, Outside </p>"
+              },
+              "unique_id": "1920-2"
+          },
+          {
+              "media": {
+                  "url": "images/Scan6.jpeg",
+                  "thumbnail": "images/Scan6.jpeg"
+              },
+              "start_date": {
+                  "year": "1920"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> “He is reading like Daddy but his paper is upside down as usual” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Kids, Porch, Outside </p>"
+              },
+              "unique_id": "1920-2"
+          },
+          {
+              "media": {
+                  "url": "images/Scan31.jpeg",
+                  "thumbnail": "images/Scan31.jpeg"
+              },
+              "start_date": {
+                  "year": "1930"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Father Robinson </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Adults </p>"
+              },
+              "unique_id": "1930"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan81.jpeg",
+                  "thumbnail": "images/Colpitts-Scan81.jpeg"
+              },
+              "start_date": {
+                  "year": "1957"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mary Elizabeth, Jack, Susan and Ann on the front porch of their home </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Newborns/Pregnancy </p> "
+              },
+              "unique_id": "1957"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan82.jpeg",
+                  "thumbnail": "images/Colpitts-Scan82.jpeg"
+              },
+              "start_date": {
+                  "year": "1958"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Ann and Jack playing in the hose in their front yard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids, Porch </p>"
+              },
+              "unique_id": "1958"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan1.jpeg",
+                  "thumbnail": "images/Colpitts-Scan1.jpeg"
+              },
+              "start_date": {
+                  "year": "1961"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan on front porch on her birthday </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Kids, Birthday </p>"
+              },
+              "unique_id": "1961"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan84.jpeg",
+                  "thumbnail": "images/Colpitts-Scan84.jpeg"
+              },
+              "start_date": {
+                  "year": "1963"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George mowing the lawn on a push mower </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Yard, Adults, Summer </p>"
+              },
+              "unique_id": "1963"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan5.jpeg",
+                  "thumbnail": "images/Colpitts-Scan5.jpeg"
+              },
+              "start_date": {
+                  "year": "1968"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Ann’s Backyard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Yard </p>"
+              },
+              "unique_id": "1968"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan44.jpeg",
+                  "thumbnail": "images/Colpitts-Scan44.jpeg"
+              },
+              "start_date": {
+                  "year": "1992"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Annie and Lily eating watermelon </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Kids, Summer </p>"
+              },
+              "unique_id": "1992"
+          }
+
+        ]
+}

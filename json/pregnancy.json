@@ -1,0 +1,103 @@
+{
+  "title": {
+      "text": {
+        "headline": "Pregnancy/Newborns",
+        "text": "<p>These are all the photos in the collection that depict stages of pregnancy or newborns- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan0.jpeg",
+                  "thumbnail": "images/Scan0.jpeg"
+              },
+              "start_date": {
+                  "year": "1915"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mrs Farr and Baby Elizabeth </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy, Portrait </p>"
+              },
+              "unique_id": "1915"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan81.jpeg",
+                  "thumbnail": "images/Colpitts-Scan81.jpeg"
+              },
+              "start_date": {
+                  "year": "1957"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Mary Elizabeth, Jack, Susan and Ann on the front porch of their home </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Porch, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "1957"
+          },
+          {
+              "media": {
+                  "url": "Images/Scan50.jpeg",
+                  "thumbnail": "images/Scan50.jpeg"
+              },
+              "start_date": {
+                  "year": "1960"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Allen’s wife and baby Roxanne Marie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, black and white, Twin-lens reflex camera (TLR) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy, Summer </p> "
+              },
+              "unique_id": "1960"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan6.jpeg",
+                  "thumbnail": "images/Colpitts-Scan6.jpeg"
+              },
+              "start_date": {
+                  "year": "1970"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Ann, Alex, and Karen (5 months) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "1970"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan31.jpeg",
+                  "thumbnail": "images/Colpitts-Scan31.jpeg"
+              },
+              "start_date": {
+                  "year": "1987"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Susan (29) pregnant with Lily. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Adults, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "1987"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan30.jpeg",
+                  "thumbnail": "images/Colpitts-Scan30.jpeg"
+              },
+              "start_date": {
+                  "year": "1988"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George and Mary Elizabeth holding Lily </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Newborns/Pregnancy </p>"
+              },
+              "unique_id": "1988"
+          },
+          {
+              "media": {
+                  "url": "images/Digital1.jpeg",
+                  "thumbnail": "images/Digital1.jpeg"
+              },
+              "start_date": {
+                  "year": "2006"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Here is a picture of Josie with her great-grandma Nana. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Inside, Portrait, Newborns/Pregnancy </p> "
+              },
+              "unique_id": "2006"
+          }
+
+        ]
+}

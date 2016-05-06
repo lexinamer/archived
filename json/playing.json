@@ -1,0 +1,376 @@
+{
+  "title": {
+      "text": {
+        "headline": "Playing",
+        "text": "<p>These are all the photos in the collection that depict various forms of play, including children and sports- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan10.jpeg",
+                  "thumbnail": "images/Scan10.jpeg"
+              },
+              "start_date": {
+                  "year": "1917"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald and Holsli at Norwood- Dec 1917 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Winter, Kids </p>"
+              },
+              "unique_id": "1917"
+          },
+          {
+              "media": {
+                  "url": "images/Scan9.jpeg",
+                  "thumbnail": "images/Scan9.jpeg"
+              },
+              "start_date": {
+                  "year": "1918"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> “Baby mows grass, Mommie” </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Yard, Playing, Kids, Summer </p>"
+              },
+              "unique_id": "1918"
+          },
+          {
+              "media": {
+                  "url": "images/Scan14.jpeg",
+                  "thumbnail": "images/Scan14.jpeg"
+              },
+              "start_date": {
+                  "year": "1918"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald ready to go for a “pinkie” (picnic) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars, Playing, Kids </p> "
+              },
+              "unique_id": "1918-2"
+          },
+          {
+              "media": {
+                  "url": "images/Scan16.jpeg",
+                  "thumbnail": "images/Scan16.jpeg"
+              },
+              "start_date": {
+                  "year": "1919"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Naomi Marrion and Reginald </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids, Cars </p> "
+              },
+              "unique_id": "1919-2"
+          },
+          {
+              "media": {
+                  "url": "images/Scan29.jpeg",
+                  "thumbnail": "images/Scan29.jpeg"
+              },
+              "start_date": {
+                  "year": "1923"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Marion and Ana Maxine </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p>"
+              },
+              "unique_id": "1923"
+          },
+          {
+              "media": {
+                  "url": "images/Scan28.jpeg",
+                  "thumbnail": "images/Scan28.jpeg"
+              },
+              "start_date": {
+                  "year": "1925"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Daddy and Brother Bill- Chase Lake </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Summer, Adults, Playing </p>"
+              },
+              "unique_id": "1925"
+          },
+          {
+              "media": {
+                  "url": "images/Scan30.jpeg",
+                  "thumbnail": "images/Scan30.jpeg"
+              },
+              "start_date": {
+                  "year": "1926"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald manufactures and automobile. Marion is a passenger </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Cars, Kids </p>"
+              },
+              "unique_id": "1926"
+          },
+          {
+              "media": {
+                  "url": "images/Scan47.jpeg",
+                  "thumbnail": "images/Scan47.jpeg"
+              },
+              "start_date": {
+                  "year": "1953"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Deborah Jean Barrett </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer </p>"
+              },
+              "unique_id": "1953"
+          },
+          {
+              "media": {
+                  "url": "images/Scan46.jpeg",
+                  "thumbnail": "images/Scan46.jpeg"
+              },
+              "start_date": {
+                  "year": "1956"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> David Menard in our new Chrysler </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars, Playing, Kids </p> "
+              },
+              "unique_id": "1956"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan82.jpeg",
+                  "thumbnail": "images/Colpitts-Scan82.jpeg"
+              },
+              "start_date": {
+                  "year": "1958"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Ann and Jack playing in the hose in their front yard </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids, Porch </p>"
+              },
+              "unique_id": "1958"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan15.jpeg",
+                  "thumbnail": "images/Colpitts-Scan15.jpeg"
+              },
+              "start_date": {
+                  "year": "1976"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> George at pool </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 120 film, color, Twin-lens reflex camera (TRL) </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer </p>"
+              },
+              "unique_id": "1976"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan23.jpeg",
+                  "thumbnail": "images/Colpitts-Scan23.jpeg"
+              },
+              "start_date": {
+                  "year": "1980"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> What style!! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Adults </p>"
+              },
+              "unique_id": "1980"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan28.jpeg",
+                  "thumbnail": "images/Colpitts-Scan28.jpeg"
+              },
+              "start_date": {
+                  "year": "1986"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Norman sailing </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Adults </p>"
+              },
+              "unique_id": "1986"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan75.jpeg",
+                  "thumbnail": "images/Colpitts-Scan75.jpeg"
+              },
+              "start_date": {
+                  "year": "1990"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Hi Grandma! Sisters Lily and Annie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p>"
+              },
+              "unique_id": "1990"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan41.jpeg",
+                  "thumbnail": "images/Colpitts-Scan41.jpeg"
+              },
+              "start_date": {
+                  "year": "1991"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily playing on the swing at the park </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> "
+              },
+              "unique_id": "1991"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan46.jpeg",
+                  "thumbnail": "images/Colpitts-Scan46.jpeg"
+              },
+              "start_date": {
+                  "year": "1993"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Lily, Annie and her friends on a Red Flyer wagon </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p>"
+              },
+              "unique_id": "1993"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan53.jpeg",
+                  "thumbnail": "images/Colpitts-Scan53.jpeg"
+              },
+              "start_date": {
+                  "year": "1994"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Annie and Lily July 1994 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Cars, Kids, Summer </p>"
+              },
+              "unique_id": "1994"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan78.jpeg",
+                  "thumbnail": "images/Colpitts-Scan78.jpeg"
+              },
+              "start_date": {
+                  "year": "1995"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Annie in the sandbox </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p>"
+              },
+              "unique_id": "1995"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan52.jpeg",
+                  "thumbnail": "images/Colpitts-Scan52.jpeg"
+              },
+              "start_date": {
+                  "year": "1995"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Julia learning to ride her bike next to her dad </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p>"
+              },
+              "unique_id": "1995-2"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan56.jpeg",
+                  "thumbnail": "images/Colpitts-Scan56.jpeg"
+              },
+              "start_date": {
+                  "year": "1997"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Friends in the neighborhood “sunbathing” on the lawn </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids, Summer </p>"
+              },
+              "unique_id": "1997"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan68.jpeg",
+                  "thumbnail": "images/Colpitts-Scan68.jpeg"
+              },
+              "start_date": {
+                  "year": "2000"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> The river at Family Camp </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p>"
+              },
+              "unique_id": "2000-2"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan72.jpeg",
+                  "thumbnail": "images/Colpitts-Scan72.jpeg"
+              },
+              "start_date": {
+                  "year": "2003"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Annie at camp in West Virginia </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Kids </p>"
+              },
+              "unique_id": "2003"
+          },
+          {
+              "media": {
+                  "url": "images/Digital2.jpeg",
+                  "thumbnail": "images/Digital2.jpeg"
+              },
+              "start_date": {
+                  "year": "2007"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Happy Father's Day </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Summer, Holiday </p>"
+              },
+              "unique_id": "2007"
+          },
+          {
+              "media": {
+                  "url": "images/Digital14.jpeg",
+                  "thumbnail": "images/Digital14.jpeg"
+              },
+              "start_date": {
+                  "year": "2007"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Cross country skiing with baby and dog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Winter </p>"
+              },
+              "unique_id": "2007-2"
+          },
+          {
+              "media": {
+                  "url": "images/Digital3.jpeg",
+                  "thumbnail": "images/Digital3.jpeg"
+              },
+              "start_date": {
+                  "year": "2008"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> On Monday we went apple picking with our neighbors. We picked a bunch of apples and I have already made my first batch of homemade applesauce and its so tasty...many more apples to peel though before I can make more. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Playing, Outside, Kids </p>"
+              },
+              "unique_id": "2008"
+          },
+          {
+              "media": {
+                  "url": "images/Digital15.jpeg",
+                  "thumbnail": "images/Digital15.jpeg"
+              },
+              "start_date": {
+                  "year": "2008"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Nothing exciting- We haven't been doing much lately, lots of hanging out.  </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Blog </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Playing, Kids, Outside </p>"
+              },
+              "unique_id": "2008-2"
+          },
+          {
+              "media": {
+                  "url": "images/Digital7.jpeg",
+                  "thumbnail": "images/Digital7.jpeg"
+              },
+              "start_date": {
+                  "year": "2012"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Swinging at the park in January! </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Facebook </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Kids </p> "
+              },
+              "unique_id": "2012-2"
+          },
+          {
+              "media": {
+                  "url": "images/Digital12.jpeg",
+                  "thumbnail": "images/Digital12.jpeg"
+              },
+              "start_date": {
+                  "year": "2016"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Snow. </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> Digital photo, Posted on Instagram </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Kids, Winter, Playing </p>"
+              },
+              "unique_id": "2016-2"
+          }
+
+        ]
+}

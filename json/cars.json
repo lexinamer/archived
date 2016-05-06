@@ -1,0 +1,114 @@
+{  "title": {
+      "text": {
+        "headline": "Cars",
+        "text": "<p>These are all the photos in the collection that depict cars- Use the arrows to swipe between the photos.</p><p>To select a different theme or view all the images, click on the 'filter' icon again.</p>"
+      },
+      "unique_id": "begin"
+  },
+        "events": [
+          {
+              "media": {
+                  "url": "images/Scan30.jpeg",
+                  "thumbnail": "images/Scan30.jpeg"
+              },
+              "start_date": {
+                  "year": "1926"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Reginald manufactures and automobile. Marion is a passenger </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Cars, Kids </p>"
+              },
+              "unique_id": "1926"
+          },
+          {
+              "media": {
+                  "url": "images/Scan49.jpeg",
+                  "thumbnail": "images/Scan49.jpeg"
+              },
+              "start_date": {
+                  "year": "1939"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Dad Beaumont’s home on Filkins St, Fairport NY </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, House, Cars </p>"
+              },
+              "unique_id": "1939"
+          },
+          {
+              "media": {
+                  "url": "images/Scan41.jpeg",
+                  "thumbnail": "images/Scan41.jpeg"
+              },
+              "start_date": {
+                  "year": "1941"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Grandpa Robinson and Granddaughter Marion Robinson, daughter of Arthur Robinson. Summer 1941 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p>"
+              },
+              "unique_id": "1941"
+          },
+          {
+              "media": {
+                  "url": "images/Scan46.jpeg",
+                  "thumbnail": "images/Scan46.jpeg"
+              },
+              "start_date": {
+                  "year": "1956"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> David Menard in our new Chrysler </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 116 film, Black and white, Kodak Brownie </p>"
+              },
+              "unique_id": "1956"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan13.jpeg",
+                  "thumbnail": "images/Colpitts-Scan13.jpeg"
+              },
+              "start_date": {
+                  "year": "1977"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Ann, Karen, Susan at train station </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, black and white </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Cars </p>"
+              },
+              "unique_id": "1977"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan19.jpeg",
+                  "thumbnail": "images/Colpitts-Scan19.jpeg"
+              },
+              "start_date": {
+                  "year": "1978"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Tailgate at Virginia Tech </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Event, Cars, Adults </p>"
+              },
+              "unique_id": "1978"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan29.jpeg",
+                  "thumbnail": "images/Colpitts-Scan29.jpeg"
+              },
+              "start_date": {
+                  "year": "1983"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Getting the car ready to head back to VA </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Vacation, Adults, Cars </p>"
+              },
+              "unique_id": "1983"
+          },
+          {
+              "media": {
+                  "url": "images/Colpitts-Scan53.jpeg",
+                  "thumbnail": "images/Colpitts-Scan53.jpeg"
+              },
+              "start_date": {
+                  "year": "1994"
+              },
+              "text": {
+                  "text": "<p class=\"caption\"> Annie and Lily July 1994 </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#phototype\">Photo Type</a> 35mm film, color </p> <p class=\"timelinetext\">  <a class=\"links\" href=\"#themes\">Themes</a> Outside, Playing, Cars, Kids, Summer </p>"
+              },
+              "unique_id": "1994"
+          }
+        ]
+}
