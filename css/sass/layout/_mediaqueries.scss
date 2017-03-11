@@ -1,0 +1,77 @@
+/*MEDIA QUERIES- LANDSCAPE TABLET*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+  .tl-media {
+  vertical-align: middle;
+  }
+
+}
+
+/*MEDIA QUERIES- PORTRAIT TABLET*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+  #container {
+  width: 80%;
+  }
+
+  #iconbtns {
+  display: none;
+  }
+
+  .tl-media {
+  vertical-align: middle;
+  }
+
+}
+
+/*MEDIA QUERIES- PHONE*/
+@media (max-width: 767px) {
+/*@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {*/
+  #iconbtns {
+    display: none;
+  }
+
+  .tl-timenav {
+    display: none;
+  }
+
+  .tl-menubar {
+    display: none;
+  }
+
+  .tl-storyslider {
+    height: 100vh !important;
+  }
+
+  .landing-logo {
+  width: 300px;
+  margin-left: -150px;
+  }
+
+  .landing-text {
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 0px;
+  }
+
+  .group {
+  display: none;
+  }
+
+  .related {
+  padding-right: 0px;
+  }
+
+  .tl-slide-content {
+  flex-direction: column !important;
+  -webkit-flex-direction: column !important;
+  }
+
+  #container {
+  width: 80%;
+  }
+
+  .tl-text-content {
+    padding-bottom: 50px;
+  }
+}

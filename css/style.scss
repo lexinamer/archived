@@ -1,0 +1,30 @@
+// CSS Reset- Normalize (in base directory)
+    @import "sass/base/reset";
+
+// Font Includes (in vendor directory)
+    @import url("https://fonts.googleapis.com/css?family=Halant:300,400");
+    @import "sass/vendor/font-awesome/scss/font-awesome";
+
+// Vendor Includes
+    @import "sass/vendor/component";
+    @import "sass/vendor/4cols";
+    @import "sass/vendor/jPushMenu";
+
+// Base Includes
+    @import "sass/base/color";
+    @import "sass/base/typography";
+
+// Component Includes
+    @import "sass/components/buttons";
+    @import "sass/components/navigation";
+
+// Layout Includes
+    @import "sass/layout/structure";
+    @import "sass/layout/header";
+
+// Page Includes
+    @import "sass/pages/landing";
+    @import "sass/pages/timeline";
+
+// Media Query Includes (in layout directory)
+    @import "sass/layout/mediaqueries";

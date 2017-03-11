@@ -1,0 +1,34 @@
+// Filter Bar
+    .cbp-spmenu-top.menu-open {
+        top: 50px;
+    }
+
+    .cbp-spmenu-horizontal{
+        height: 60px;
+        background: $primary-color;
+        border-top: 1px solid white;
+        padding: 10px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    :focus {
+      outline: none;
+    }
+
+
+// Side Menu Bar
+    .cbp-spmenu-vertical {
+      text-align: right;
+      background: grey;
+
+      a {
+          border-bottom: 1px solid $primary-color;
+          text-decoration: none;
+          font-family: $primary-font;
+      }
+
+      a:hover {
+          background: #515151;
+      }
+   }
