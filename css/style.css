@@ -9,6 +9,7 @@
 /* Document
    ========================================================================== */
 @import url("https://fonts.googleapis.com/css?family=Halant:300,400");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -4460,22 +4461,26 @@ h1 {
   font-size: 2.5rem;
   margin-top: 1.5em;
   text-transform: uppercase;
-  text-align: center; }
+  text-align: center;
+  font-family: "Roboto", sans-serif; }
 
 h2 {
   font-size: 2rem;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif; }
 
 h3 {
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif; }
 
 p {
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-size: 1rem; }
 
 a {
-  color: #727c76; }
+  color: #727c76;
+  font-family: "Roboto", sans-serif; }
 
 .landing-text {
   text-align: center;
@@ -4486,13 +4491,14 @@ a {
   .landing-text p {
     font-weight: 400;
     margin-bottom: 30px;
-    font-size: 1.3em;
+    font-size: 1.2em;
     line-height: 1.6; }
 
 .tl-text .tl-headline-date, .tl-text h3.tl-headline-date {
   font-size: 2rem;
   font-weight: bold;
-  color: black; }
+  color: black;
+  font-family: "Roboto", sans-serif; }
 
 .caption {
   font-size: 1.3rem !important;
@@ -4700,7 +4706,8 @@ header {
 #begin .tl-headline {
   text-align: center;
   text-transform: uppercase;
-  padding-top: 40px; }
+  padding-top: 40px;
+  font-family: "Roboto", sans-serif; }
 
 #begin .tl-text-content {
   text-align: center; }

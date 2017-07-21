@@ -1,6 +1,9 @@
 // Global Font Styling
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+
     $primary-font: 'Halant', serif;
-    $secondary-font: 'Helvetica Neue', sans-serif;
+    $secondary-font: 'Roboto', sans-serif;
+
 
 
     body {
@@ -12,15 +15,18 @@
       margin-top: 1.5em;
       text-transform: uppercase;
       text-align: center;
+      font-family: $secondary-font
     }
 
     h2 {
       font-size: 2rem;
       text-transform: uppercase;
+      font-family: $secondary-font
     }
 
     h3 {
       font-size: 1.5rem;
+      font-family: $secondary-font
     }
 
     p {
@@ -31,6 +37,7 @@
 
     a {
       color: $accent-color;
+      font-family: $secondary-font
     }
 
 
@@ -45,7 +52,7 @@
       p{
         font-weight: 400;
         margin-bottom: 30px;
-        font-size: 1.3em;
+        font-size: 1.2em;
         line-height: 1.6;
       }
     }
@@ -56,6 +63,7 @@
       font-size: 2rem;
       font-weight: bold;
       color: black;
+      font-family: $secondary-font;
     }
 
     .caption {
